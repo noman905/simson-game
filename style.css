@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+}
+
+.noman{
+   height: 100px;
+   width: 100px;
+  
+
+   margin: 15px;
+   border: 8px solid black;
+
+   border-radius: 20px;
+}
+.div-class{
+    display: flex;
+    justify-content: center;
+    /* background-color: brown; */
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+
+}
+
+
+.purple{
+    background-color:purple;
+}
+
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: rgb(128, 0, 45);
+}
+
